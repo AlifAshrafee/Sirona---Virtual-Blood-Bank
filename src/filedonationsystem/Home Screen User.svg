@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 169 168">
+      <image width="169" height="168" xlink:href="Home%20Screen%20User-image.png"/>
+    </pattern>
+    <filter id="SIRONA" x="346" y="166.787" width="388" height="148" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Save_Live" x="404" y="334" width="272" height="99" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 520 261">
+      <image width="520" height="261" xlink:href="Home%20Screen%20User-image5.png"/>
+    </pattern>
+    <filter id="Hands" x="307" y="1611.704" width="466.285" height="244.314" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_87" x="160.094" y="628.328" width="759.26" height="455.139" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_88" x="347.531" y="741.78" width="762.008" height="881.52" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_89" x="-29.064" y="741.795" width="762.008" height="881.52" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="User_Profile" x="276" y="782" width="528" height="136" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Update_Donor" x="192" y="1074" width="328" height="257" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Search_Blood" x="572" y="1074" width="308" height="257" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Home_Screen_User">
+      <rect width="1080" height="1920"/>
+    </clipPath>
+  </defs>
+  <g id="Home_Screen_User" data-name="Home Screen User" clip-path="url(#clip-Home_Screen_User)">
+    <rect width="1080" height="1920" fill="#2bb673"/>
+    <rect id="Heart" width="350" height="347.929" rx="32" transform="translate(691.292 564.344)" opacity="0.75" fill="url(#pattern)"/>
+    <image id="Map" width="350" height="350" transform="translate(38.831 564)" opacity="0.75" xlink:href="Home%20Screen%20User-image2.png"/>
+    <image id="First_Aid" data-name="First Aid" width="350" height="350" transform="translate(39.324 1205)" opacity="0.75" xlink:href="Home%20Screen%20User-image3.png"/>
+    <image id="Blood" width="292.407" height="398" transform="translate(729 1142.627)" opacity="0.75" xlink:href="Home%20Screen%20User-image4.png"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#SIRONA)">
+      <text id="SIRONA-2" data-name="SIRONA" transform="translate(540 271.79)" fill="#fff" font-size="110" font-family="Cambria"><tspan x="-184.766" y="0">SIRONA</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Save_Live)">
+      <text id="Save_Live-2" data-name="Save | Live" transform="translate(540 389)" fill="#fff" font-size="80" font-family="Gabriola" text-decoration="underline"><tspan x="-126.631" y="0">Save | Live</tspan></text>
+    </g>
+    <image id="Logout_icon" data-name="Logout icon" width="148" height="148" transform="translate(932)" xlink:href="F:/App%20Contest/029_logout-512.png"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Hands)">
+      <rect id="Hands-2" data-name="Hands" width="448.285" height="225.314" transform="translate(316 1611.7)" opacity="0.75" fill="url(#pattern-2)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_87)">
+      <path id="Path_87-2" data-name="Path 87" d="M4272,960,3905.067,747.467S4013.467,536.533,4272,535.333s366.4,212.133,366.4,212.133Z" transform="translate(-3732 96)" fill="#188b53" stroke="#fff" stroke-width="6"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_88)">
+      <path id="Path_88-2" data-name="Path 88" d="M4272,960,3905.067,747.467S4013.467,536.533,4272,535.333s366.4,212.133,366.4,212.133Z" transform="translate(3512.1 -2154.93) rotate(120)" fill="#188b53" stroke="#fff" stroke-width="6"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_89)">
+      <path id="Path_89-2" data-name="Path 89" d="M4272,960,3905.067,747.467S4013.467,536.533,4272,535.333s366.4,212.133,366.4,212.133Z" transform="translate(1840.1 5243.93) rotate(-120)" fill="#188b53" stroke="#fff" stroke-width="6"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#User_Profile)">
+      <text id="User_Profile-2" data-name="User Profile" transform="translate(540 881)" fill="#fff" font-size="101" font-family="Cambria"><tspan x="-254.349" y="0">User Profile</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Update_Donor)">
+      <text id="Update_Donor-2" data-name="Update
+Donor" transform="translate(356 1173)" fill="#fff" font-size="101" font-family="Cambria"><tspan x="-154.755" y="0">Update</tspan><tspan x="-136.089" y="121">Donor</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Search_Blood)">
+      <text id="Search_Blood-2" data-name="Search
+Blood" transform="translate(726 1173)" fill="#fff" font-size="101" font-family="Cambria"><tspan x="-144.62" y="0">Search</tspan><tspan x="-126.201" y="121">Blood</tspan></text>
+    </g>
+  </g>
+</svg>

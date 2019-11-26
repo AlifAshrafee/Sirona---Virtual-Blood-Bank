@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <filter id="Rectangle_8" x="297" y="588" width="687" height="97" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_10" x="304" y="903" width="687" height="97" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_9" x="304" y="806" width="145" height="84" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_11" x="309" y="1006" width="144" height="97" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_14" x="304" y="696" width="680" height="97" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3" x="143" y="60" width="946" height="142" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Become_a_Donor" x="173" y="82" width="472" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8-2" x="311" y="1196" width="687" height="97" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 775 720">
+      <image width="775" height="720" xlink:href="F:/App%20Contest/profile-42914_960_720.png"/>
+    </pattern>
+    <filter id="profile-42914_960_720" x="351" y="207" width="378" height="378" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <path id="path" d="M24.333,3H5.667A2.675,2.675,0,0,0,3,5.667V24.333A2.675,2.675,0,0,0,5.667,27H24.333A2.675,2.675,0,0,0,27,24.333V5.667A2.675,2.675,0,0,0,24.333,3Zm-12,18.667-6.667-6.41,1.867-1.795,4.8,4.615L22.467,8.333l1.867,1.795-12,11.538Z" transform="translate(-3 -3)" fill="#009789" clip-rule="evenodd"/>
+    </clipPath>
+    <filter id="Rectangle_12" x="272" y="1545" width="537" height="191" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Sign_Up" x="388" y="1574" width="304" height="124" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Sign_up_as_a_blood_donor" x="335" y="1485" width="410" height="65" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_8-3" x="310" y="1097" width="687" height="97" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Become_a_Donor-2">
+      <rect width="1080" height="1920"/>
+    </clipPath>
+  </defs>
+  <g id="Become_a_Donor-2" data-name="Become a Donor" clip-path="url(#clip-Become_a_Donor-2)">
+    <rect width="1080" height="1920" fill="#fffffc"/>
+    <g id="Left_Arrow" data-name="Left Arrow">
+      <g id="Arrow">
+        <line id="Line_2" data-name="Line 2" y1="19" x2="19" transform="translate(77.5 106.5)" fill="none" stroke="#000" stroke-width="6"/>
+        <line id="Line_3" data-name="Line 3" x2="19" y2="19" transform="translate(77.5 125.5)" fill="none" stroke="#000" stroke-width="6"/>
+        <line id="Line_4" data-name="Line 4" x2="57" transform="translate(77.5 125.5)" fill="none" stroke="#000" stroke-width="6"/>
+      </g>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="109" height="109" transform="translate(52 71)" fill="none"/>
+    </g>
+    <g id="Username" transform="translate(-17 -58)">
+      <text id="Username:" transform="translate(202 709)" fill="#6ecd9f" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-107.985" y="0">Username:</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 17, 58)" filter="url(#Rectangle_8)">
+        <g id="Rectangle_8-4" data-name="Rectangle 8" transform="translate(306 592)" fill="#aed2c1" stroke="#707070" stroke-width="1">
+          <rect width="669" height="79" rx="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="668" height="78" rx="11.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Name_of_User" data-name="Name of User" transform="translate(478 706)" fill="#999" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-121.396" y="0">Name of User</tspan></text>
+    </g>
+    <g id="Address" transform="translate(-17 -66)">
+      <text id="Address:" transform="translate(223 1021)" fill="#6ecd9f" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-87.133" y="0">Address:</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 17, 66)" filter="url(#Rectangle_10)">
+        <g id="Rectangle_10-2" data-name="Rectangle 10" transform="translate(313 907)" fill="#aed2c1" stroke="#707070" stroke-width="1">
+          <rect width="669" height="79" rx="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="668" height="78" rx="11.5" fill="none"/>
+        </g>
+      </g>
+      <image id="Location_icon" data-name="Location icon" width="66" height="66" transform="translate(915 980)" xlink:href="F:/App%20Contest/99541b879c.png"/>
+      <text id="Location_of_User" data-name="Location of User" transform="translate(497 1029)" fill="#999" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-143.779" y="0">Location of User</tspan></text>
+    </g>
+    <g id="Blood_Group" data-name="Blood Group" transform="translate(-17 -66)">
+      <text id="Blood_Group:" data-name="Blood Group:" transform="translate(182 919)" fill="#6ecd9f" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-135.45" y="0">Blood Group:</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 17, 66)" filter="url(#Rectangle_9)">
+        <g id="Rectangle_9-2" data-name="Rectangle 9" transform="translate(313 810)" fill="#aed2c1" stroke="#707070" stroke-width="1">
+          <rect width="127" height="66" rx="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="126" height="65" rx="11.5" fill="none"/>
+        </g>
+      </g>
+      <text id="XY_" data-name="XY+" transform="translate(394 926)" fill="#999" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-36.533" y="0">XY+</tspan></text>
+    </g>
+    <g id="Age" transform="translate(-17 -66)">
+      <text id="Age:" transform="translate(264 1123)" fill="#6ecd9f" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-46.044" y="0">Age:</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 17, 66)" filter="url(#Rectangle_11)">
+        <g id="Rectangle_11-2" data-name="Rectangle 11" transform="translate(318 1010)" fill="#aed2c1" stroke="#707070" stroke-width="1">
+          <rect width="126" height="79" rx="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="125" height="78" rx="11.5" fill="none"/>
+        </g>
+      </g>
+      <text id="XY" transform="translate(394 1132)" fill="#999" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-22.852" y="0">XY</tspan></text>
+    </g>
+    <g id="Email_ID" data-name="Email ID" transform="translate(-17 -66)">
+      <text id="Email_ID:" data-name="Email ID:" transform="translate(221 817)" fill="#6ecd9f" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-89.385" y="0">Email ID:</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 17, 66)" filter="url(#Rectangle_14)">
+        <g id="Rectangle_14-2" data-name="Rectangle 14" transform="translate(313 700)" fill="#aed2c1" stroke="#707070" stroke-width="1">
+          <rect width="662" height="79" rx="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="661" height="78" rx="11.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Email_Address_of_User" data-name="Email Address of User" transform="translate(542.783 822)" fill="#999" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-192.1" y="0">Email Address of User</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_3)">
+      <g id="Path_3-2" data-name="Path 3" transform="translate(152 64)" fill="#1c4231">
+        <path d="M 913 123.5 L 15 123.5 C 11.12694072723389 123.5 7.485647201538086 121.9917678833008 4.746941089630127 119.253059387207 C 2.008235216140747 116.5143508911133 0.5 112.8730621337891 0.5 109 L 0.5 15 C 0.5 11.12694072723389 2.008235216140747 7.485647201538086 4.746941089630127 4.746941089630127 C 7.485647201538086 2.008235216140747 11.12694072723389 0.5 15 0.5 L 913 0.5 C 916.873046875 0.5 920.5143432617188 2.008235216140747 923.2530517578125 4.746941089630127 C 925.9917602539063 7.485647201538086 927.5 11.12694072723389 927.5 15 L 927.5 109 C 927.5 112.8730621337891 925.9917602539063 116.5143508911133 923.2530517578125 119.253059387207 C 920.5143432617188 121.9917678833008 916.873046875 123.5 913 123.5 Z" stroke="none"/>
+        <path d="M 15 1 C 11.260498046875 1 7.74481201171875 2.45623779296875 5.1004638671875 5.100471496582031 C 2.45623779296875 7.744827270507813 1 11.26046752929688 1 15 L 1 109 C 1 112.7395324707031 2.45623779296875 116.2551727294922 5.1004638671875 118.899528503418 C 7.74481201171875 121.5437622070313 11.260498046875 123 15 123 L 913 123 C 916.739501953125 123 920.2551879882813 121.5437622070313 922.8995361328125 118.899528503418 C 925.5437622070313 116.2551727294922 927 112.7395324707031 927 109 L 927 15 C 927 11.26046752929688 925.5437622070313 7.744827270507813 922.8995361328125 5.100471496582031 C 920.2551879882813 2.45623779296875 916.739501953125 1 913 1 L 15 1 M 15 0 L 913 0 C 921.2842407226563 0 928 6.715766906738281 928 15 L 928 109 C 928 117.2842330932617 921.2842407226563 124 913 124 L 15 124 C 6.71575927734375 124 0 117.2842330932617 0 109 L 0 15 C 0 6.715766906738281 6.71575927734375 0 15 0 Z" stroke="none" fill="#707070"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Become_a_Donor)">
+      <text id="Become_a_Donor-3" data-name="Become a Donor" transform="translate(409 151)" fill="#fff" font-size="60" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-226.699" y="0">Become a Donor</tspan></text>
+    </g>
+    <g id="NID" transform="translate(5 638)">
+      <text id="Contact_No:" data-name="Contact No:" transform="translate(174 608)" fill="#6ecd9f" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-121.432" y="0">Contact No:</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, -5, -638)" filter="url(#Rectangle_8-2)">
+        <g id="Rectangle_8-5" data-name="Rectangle 8" transform="translate(320 1200)" fill="#aed2c1" stroke="#707070" stroke-width="1">
+          <rect width="669" height="79" rx="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="668" height="78" rx="11.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Contact_no_of_user" data-name="Contact no of user" transform="translate(506 613)" fill="#999" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-163.057" y="0">Contact no of user</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#profile-42914_960_720)">
+      <g id="profile-42914_960_720-2" data-name="profile-42914_960_720" transform="translate(360 210)" stroke="#707070" stroke-width="1" fill="url(#pattern)">
+        <circle cx="180" cy="180" r="180" stroke="none"/>
+        <circle cx="180" cy="180" r="179.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Checkbox" transform="translate(26 -275)">
+      <g id="checkbox-2" data-name="checkbox" transform="translate(81 1672)">
+        <rect id="check_box_off" width="30" height="30" fill="none"/>
+      </g>
+      <text id="I_Agree_to_the" data-name="I Agree to the" transform="translate(198 1696)" fill="#6ecd9f" font-size="30" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-85.107" y="0">I Agree to the</tspan></text>
+      <text id="terms_and_conditions" data-name="terms and conditions" transform="translate(420 1696)" fill="#2bb673" font-size="30" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic" text-decoration="underline"><tspan x="-131.931" y="0">terms and conditions</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_12)">
+      <g id="Rectangle_12-2" data-name="Rectangle 12" transform="translate(281 1545)" fill="#1c4231" stroke="#707070" stroke-width="1">
+        <rect width="519" height="172" rx="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="518" height="171" rx="11.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Sign_Up)">
+      <text id="Sign_Up-2" data-name="Sign Up" transform="translate(540 1664)" fill="#fff" font-size="80" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-142.891" y="0">Sign Up</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Sign_up_as_a_blood_donor)">
+      <text id="Sign_up_as_a_blood_donor-2" data-name="Sign up as a blood donor" transform="translate(540 1529)" fill="#6ecd9f" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="-195.277" y="0">Sign up as a blood donor</tspan></text>
+    </g>
+    <g id="NID-2" data-name="NID" transform="translate(-10 552)">
+      <text id="NID:" transform="translate(263 608)" fill="#6ecd9f" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-45.385" y="0">NID:</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 10, -552)" filter="url(#Rectangle_8-3)">
+        <g id="Rectangle_8-6" data-name="Rectangle 8" transform="translate(319 1101)" fill="#aed2c1" stroke="#707070" stroke-width="1">
+          <rect width="669" height="79" rx="12" stroke="none"/>
+          <rect x="0.5" y="0.5" width="668" height="78" rx="11.5" fill="none"/>
+        </g>
+      </g>
+      <text id="National_ID_no_of_user" data-name="National ID no of user" transform="translate(555 605)" fill="#999" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-194.307" y="0">National ID no of user</tspan></text>
+    </g>
+  </g>
+</svg>

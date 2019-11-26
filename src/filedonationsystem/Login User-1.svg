@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 169 168">
+      <image width="169" height="168" xlink:href="Login%20User-1-image2.png"/>
+    </pattern>
+    <clipPath id="clip-path">
+      <rect width="822" height="314" fill="none"/>
+    </clipPath>
+    <filter id="Rectangle_1" x="120" y="1337.121" width="840" height="149" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_1-2" x="120" y="1507.121" width="840" height="149" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21" x="245" y="1130" width="590.039" height="122" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Log_in_as_Hospital" x="288" y="1136.121" width="504" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2" x="444" y="1136.121" width="192" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Login_User-1">
+      <rect width="1080" height="1920"/>
+    </clipPath>
+  </defs>
+  <g id="Login_User-1" data-name="Login User-1" clip-path="url(#clip-Login_User-1)">
+    <rect width="1080" height="1920" fill="#2bb673"/>
+    <g id="Logo_Small" data-name="Logo Small">
+      <image id="Phone" width="398.101" height="398.101" transform="translate(341 247.529)" xlink:href="Login%20User-1-image.png"/>
+      <rect id="Heart" width="136.746" height="135.937" rx="32" transform="translate(680.292 395.344)" fill="url(#pattern)"/>
+      <image id="Map" width="134.319" height="134.319" transform="translate(333.831 168)" xlink:href="Login%20User-1-image3.png"/>
+      <image id="First_Aid" data-name="First Aid" width="135.937" height="135.937" transform="translate(612.324 166)" xlink:href="Login%20User-1-image4.png"/>
+      <text id="SIRONA" transform="translate(540 889.787)" fill="#fff" font-size="101" font-family="Cambria"><tspan x="-169.648" y="0">SIRONA</tspan></text>
+      <image id="Blood" width="112.472" height="152.929" transform="translate(285 386.627)" xlink:href="Login%20User-1-image5.png"/>
+      <image id="Hands" width="349.285" height="175.314" transform="translate(365 617.704)" xlink:href="Login%20User-1-image6.png"/>
+    </g>
+    <g id="Grids" transform="translate(0 239.121)">
+      <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(129 1098)" clip-path="url(#clip-path)">
+        <g transform="translate(-129 -1144)">
+          <g transform="matrix(1, 0, 0, 1, 0, -193.12)" filter="url(#Rectangle_1)">
+            <rect id="Rectangle_1-3" data-name="Rectangle 1" width="822" height="130" rx="42" transform="translate(129 1337.12)" fill="#fff"/>
+          </g>
+        </g>
+        <g transform="translate(-129 -974)">
+          <g transform="matrix(1, 0, 0, 1, 0, -363.12)" filter="url(#Rectangle_1-2)">
+            <rect id="Rectangle_1-4" data-name="Rectangle 1" width="822" height="130" rx="42" transform="translate(129 1507.12)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+      <text id="Hospital_Name" data-name="Hospital Name" transform="translate(540 1176)" fill="#af9d9d" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="-114.716" y="0">Hospital Name</tspan></text>
+      <text id="Password" transform="translate(540 1345)" fill="#af9d9d" font-size="35" font-family="SegoeUI, Segoe UI"><tspan x="-72.247" y="0">Password</tspan></text>
+    </g>
+    <g id="Health_Alerts" data-name="Health Alerts" transform="translate(147 740)">
+      <g transform="matrix(1, 0, 0, 1, -147, -740)" filter="url(#Rectangle_21)">
+        <g id="Rectangle_21-2" data-name="Rectangle 21" transform="translate(254 1134)" fill="#1c4231" stroke="#707070" stroke-width="1">
+          <rect width="572.039" height="104" rx="29" stroke="none"/>
+          <rect x="0.5" y="0.5" width="571.039" height="103" rx="28.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Login" transform="translate(0 82.121)">
+      <g transform="matrix(1, 0, 0, 1, 0, -82.12)" filter="url(#Log_in_as_Hospital)">
+        <text id="Log_in_as_Hospital-2" data-name="Log in as Hospital" transform="translate(540 1205.12)" fill="#fff" font-size="60" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-242.49" y="0">Log in as Hospital</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -82.12)" filter="url(#Rectangle_2)">
+        <rect id="Rectangle_2-2" data-name="Rectangle 2" width="174" height="80" rx="22" transform="translate(453 1140.12)" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

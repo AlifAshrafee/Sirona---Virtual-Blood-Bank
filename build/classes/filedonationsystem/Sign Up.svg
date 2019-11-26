@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="919" height="1030" fill="none"/>
+    </clipPath>
+    <filter id="Add" x="71" y="1546" width="64" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4" x="124" y="1537" width="68" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <path id="path" d="M24.333,3H5.667A2.675,2.675,0,0,0,3,5.667V24.333A2.675,2.675,0,0,0,5.667,27H24.333A2.675,2.675,0,0,0,27,24.333V5.667A2.675,2.675,0,0,0,24.333,3Zm-12,18.667-6.667-6.41,1.867-1.795,4.8,4.615L22.467,8.333l1.867,1.795-12,11.538Z" transform="translate(-3 -3)" fill="#009789" clip-rule="evenodd"/>
+    </clipPath>
+    <filter id="Rectangle_2" x="444" y="1756" width="192" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Sign_Up" x="452" y="1761" width="176" height="78" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Sign_Up-2">
+      <rect width="1080" height="1920"/>
+    </clipPath>
+  </defs>
+  <g id="Sign_Up-2" data-name="Sign Up" clip-path="url(#clip-Sign_Up-2)">
+    <rect width="1080" height="1920" fill="#fff"/>
+    <text id="Sign_Up-3" data-name="Sign Up" transform="translate(540 156)" fill="#2bb673" font-size="75" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-138.3" y="0">Sign Up</tspan></text>
+    <g id="Spaces">
+      <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(81 348)" clip-path="url(#clip-path)">
+        <g transform="translate(-88.5 -403)">
+          <line id="Line_1" data-name="Line 1" x2="921" transform="translate(88.5 404.5)" fill="none" stroke="#2bb673" stroke-width="4"/>
+        </g>
+        <g transform="translate(-88.5 -235)">
+          <line id="Line_1-2" data-name="Line 1" x2="921" transform="translate(88.5 404.5)" fill="none" stroke="#2bb673" stroke-width="4"/>
+        </g>
+        <g transform="translate(-88.5 -67)">
+          <line id="Line_1-3" data-name="Line 1" x2="921" transform="translate(88.5 404.5)" fill="none" stroke="#2bb673" stroke-width="4"/>
+        </g>
+        <g transform="translate(-88.5 101)">
+          <line id="Line_1-4" data-name="Line 1" x2="921" transform="translate(88.5 404.5)" fill="none" stroke="#2bb673" stroke-width="4"/>
+        </g>
+        <g transform="translate(-88.5 269)">
+          <line id="Line_1-5" data-name="Line 1" x2="921" transform="translate(88.5 404.5)" fill="none" stroke="#2bb673" stroke-width="4"/>
+        </g>
+        <g transform="translate(-88.5 437)">
+          <line id="Line_1-6" data-name="Line 1" x2="921" transform="translate(88.5 404.5)" fill="none" stroke="#2bb673" stroke-width="4"/>
+        </g>
+        <g transform="translate(-88.5 605)">
+          <line id="Line_1-7" data-name="Line 1" x2="921" transform="translate(88.5 404.5)" fill="none" stroke="#2bb673" stroke-width="4"/>
+        </g>
+      </g>
+      <text id="Username" transform="translate(170 320)" fill="#af9d9d" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-88.818" y="0">Username</tspan></text>
+      <text id="Email_ID" data-name="Email ID" transform="translate(153 487)" fill="#af9d9d" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-72.031" y="0">Email ID</tspan></text>
+      <text id="Password" transform="translate(164 654)" fill="#af9d9d" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-82.568" y="0">Password</tspan></text>
+      <text id="Confirm_Password" data-name="Confirm Password" transform="translate(240 821)" fill="#af9d9d" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-158.75" y="0">Confirm Password</tspan></text>
+      <text id="Address" transform="translate(152 988)" fill="#af9d9d" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-70.84" y="0">Address</tspan></text>
+      <text id="Date_of_Birth" data-name="Date of Birth" transform="translate(193 1155)" fill="#af9d9d" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-111.729" y="0">Date of Birth</tspan></text>
+      <image id="Location_icon" data-name="Location icon" width="66" height="66" transform="translate(934 939)" xlink:href="F:/App%20Contest/99541b879c.png"/>
+      <text id="Blood_Group" data-name="Blood Group" transform="translate(193 1322)" fill="#af9d9d" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-112.471" y="0">Blood Group</tspan></text>
+    </g>
+    <text id="Add_Relative_Information" data-name="Add Relative Information" transform="translate(301 1489)" fill="#2bb673" font-size="40" font-family="SegoeUI, Segoe UI"><tspan x="-219.561" y="0">Add Relative Information</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Add)">
+      <text id="Add-2" data-name="Add" transform="translate(103 1576)" font-size="25" font-family="SegoeUI-Semilight, Segoe UI" font-weight="300"><tspan x="-22.308" y="0">Add</tspan></text>
+    </g>
+    <g id="Add-3" data-name="Add" transform="translate(-639 3)">
+      <g transform="matrix(1, 0, 0, 1, 639, -3)" filter="url(#Rectangle_4)">
+        <g id="Rectangle_4-2" data-name="Rectangle 4" transform="translate(133 1540)" fill="#fff" stroke="#707070" stroke-width="2">
+          <rect width="50" height="50" rx="4" stroke="none"/>
+          <rect x="1" y="1" width="48" height="48" rx="3" fill="none"/>
+        </g>
+      </g>
+      <g id="Plus" transform="translate(4 2)">
+        <line id="Line_10" data-name="Line 10" y2="30" transform="translate(793.115 1545.5)" fill="none" stroke="#000" stroke-width="4"/>
+        <line id="Line_11" data-name="Line 11" x1="30" transform="translate(778.5 1560.954)" fill="none" stroke="#000" stroke-width="4"/>
+      </g>
+    </g>
+    <g id="Checkbox">
+      <g id="checkbox-2" data-name="checkbox" transform="translate(81 1672)">
+        <rect id="check_box_off" width="30" height="30" fill="none"/>
+      </g>
+      <text id="I_Agree_to_the" data-name="I Agree to the" transform="translate(198 1696)" font-size="30" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-85.107" y="0">I Agree to the</tspan></text>
+      <text id="terms_and_conditions" data-name="terms and conditions" transform="translate(420 1696)" fill="#2bb673" font-size="30" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic" text-decoration="underline"><tspan x="-131.931" y="0">terms and conditions</tspan></text>
+    </g>
+    <g id="Signup" transform="translate(0 691)">
+      <g transform="matrix(1, 0, 0, 1, 0, -691)" filter="url(#Rectangle_2)">
+        <rect id="Rectangle_2-2" data-name="Rectangle 2" width="174" height="80" rx="22" transform="translate(453 1760)" fill="#2bb673"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 0, -691)" filter="url(#Sign_Up)">
+        <text id="Sign_Up-4" data-name="Sign Up" transform="translate(540 1814)" fill="#fff" font-size="45" font-family="SegoeUI, Segoe UI"><tspan x="-78.234" y="0">Sign Up</tspan></text>
+      </g>
+    </g>
+    <g id="Left_Arrow" data-name="Left Arrow">
+      <g id="Arrow">
+        <line id="Line_2" data-name="Line 2" y1="19" x2="19" transform="translate(77.5 106.5)" fill="none" stroke="#2bb673" stroke-width="6"/>
+        <line id="Line_3" data-name="Line 3" x2="19" y2="19" transform="translate(77.5 125.5)" fill="none" stroke="#2bb673" stroke-width="6"/>
+        <line id="Line_4" data-name="Line 4" x2="57" transform="translate(77.5 125.5)" fill="none" stroke="#2bb673" stroke-width="6"/>
+      </g>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="109" height="109" transform="translate(52 71)" fill="none"/>
+    </g>
+  </g>
+</svg>

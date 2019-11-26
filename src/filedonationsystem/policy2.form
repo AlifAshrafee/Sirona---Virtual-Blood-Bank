@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+    <AuxValue name="designerSize" type="java.awt.Dimension" value="-84,-19,0,5,115,114,0,18,106,97,118,97,46,97,119,116,46,68,105,109,101,110,115,105,111,110,65,-114,-39,-41,-84,95,68,20,2,0,2,73,0,6,104,101,105,103,104,116,73,0,5,119,105,100,116,104,120,112,0,0,3,-94,0,0,2,77"/>
+  </AuxValues>
+
+  <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+    <Property name="useNullLayout" type="boolean" value="false"/>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="60" width="590" height="930"/>
+        </Constraint>
+      </Constraints>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="73" green="b6" red="2b" type="rgb"/>
+            </Property>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="20" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="Privacy Policy&#xa;We built the Sirona Blood Donation System app as a Free app.&#xa;This SERVICE is provided by at no cost and is intended for use as is.&#xa;This page is used to inform visitors regarding our policies with the &#xa;collection, use, and disclosure of Personal Information if anyone &#xa;decided to use our Service.&#xa;If you choose to use our Service, then you agree to the collection and &#xa;use of information in relation to this policy. The Personal Information &#xa;that we collect is used for providing and improving the Service. We &#xa;will not use or share your information with anyone except as described &#xa;in this Privacy Policy.&#xa;The terms used in this Privacy Policy have the same meanings as in our &#xa;Terms and Conditions, which is accessible at Sirona Blood Donation &#xa;System unless otherwise defined in this Privacy Policy.&#xa;Information Collection and Use&#xa;For a better experience, while using our Service, we may require you &#xa;to provide us with certain personally identifiable information, &#xa;including but not limited to Name, Address, Date of Birth, Age, &#xa;Blood Group, Contact Number. The information that we request will be &#xa;retained by us and used as described in this privacy policy.&#xa;The app does use third party services that may collect information &#xa;used to identify you.&#xa;Link to privacy policy of third party service providers used by the &#xa;app&#xa;&#xa;Google Play Services&#xa;Log Data&#xa;We want to inform you that whenever you use our Service, in a case &#xa;of an error in the app we collect data and information (through &#xa;third party products) on your phone called Log Data. This Log &#xa;Data may include information such as your device Internet Protocol &#xa;(&#x201c;IP&#x201d;) address, device name, operating system version, the &#xa;configuration of the app when utilizing our Service, the time and &#xa;date of your use of the Service, and other statistics.&#xa;Cookies&#xa;Cookies are files with a small amount of data that are commonly &#xa;used as anonymous unique identifiers. These are sent to your &#xa;browser from the websites that you visit and are stored on your &#xa;device&apos;s internal memory.&#xa;This Service does not use these &#x201c;cookies&#x201d; explicitly. However, &#xa;the app may use third party code and libraries that use &#x201c;cookies&#x201d; &#xa;to collect information and improve their services. You have the &#xa;option to either accept or refuse these cookies and know when a &#xa;cookie is being sent to your device. If you choose to refuse our &#xa;cookies, you may not be able to use some portions of this Service.&#xa;Service Providers&#xa;We may employ third-party companies and individuals due to the&#xa; following reasons:&#xa;To facilitate our Service;&#xa;To provide the Service on our behalf;&#xa;To perform Service-related services; or&#xa;To assist us in analyzing how our Service is used.&#xa;We want to inform users of this Service that these third parties &#xa;have access to your Personal Information. The reason is to perform&#xa;the tasks assigned to them on our behalf. However, they are &#xa;obligated not to disclose or use the information for any other &#xa;purpose.&#xa;Security&#xa;We value your trust in providing us your Personal Information, &#xa;thus we are striving to use commercially acceptable means of &#xa;protecting it. But remember that no method of transmission over &#xa;the internet, or method of electronic storage is 100% secure and &#xa;reliable, and we cannot guarantee its absolute security.&#xa;Links to Other Sites&#xa;This Service may contain links to other sites. If you click on a &#xa;third-party link, you will be directed to that site. Note that &#xa;these external sites are not operated by us. Therefore, we &#xa;strongly advise you to review the Privacy Policy of these &#xa;websites. We have no control over and assume no responsibility &#xa;for the content, privacy policies, or practices of any third-party&#xa;sites or services.&#xa;Children&#x2019;s Privacy&#xa;These Services do not address anyone under the age of 13. We do &#xa;not knowingly collect personally identifiable information from &#xa;children under 13. In the case we discover that a child under &#xa;13 has provided us with personal information, we immediately &#xa;delete this from our servers. If you are a parent or guardian &#xa;and you are aware that your child has provided us with personal &#xa;information, please contact us so that we will be able to do &#xa;necessary actions.&#xa;Changes to This Privacy Policy&#xa;We may update our Privacy Policy from time to time. Thus, you &#xa;are advised to review this page periodically for any changes. &#xa;We will notify you of any changes by posting the new Privacy &#xa;Policy on this page. These changes are effective immediately &#xa;after they are posted on this page.&#xa;Contact Us&#xa;If you have any questions or suggestions about our Privacy Policy, &#xa;do not hesitate to contact us at faysalrahman424@gmail.com."/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="null"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JTextField" name="jTextField1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="73" green="b6" red="2b" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Times New Roman" size="36" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="Terms and Agreement "/>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="null"/>
+        </Property>
+      </Properties>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="60" y="0" width="530" height="60"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/filedonationsystem/back.png"/>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+      <Constraints>
+        <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+          <AbsoluteConstraints x="0" y="0" width="60" height="60"/>
+        </Constraint>
+      </Constraints>
+    </Component>
+  </SubComponents>
+</Form>

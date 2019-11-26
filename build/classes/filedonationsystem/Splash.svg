@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <clipPath id="clip-Splash">
+      <rect width="1080" height="1920"/>
+    </clipPath>
+  </defs>
+  <g id="Splash" clip-path="url(#clip-Splash)">
+    <rect width="1080" height="1920" fill="#2bb673"/>
+    <g id="Logo" transform="translate(0 -30)">
+      <image id="Phone" width="492" height="492" transform="translate(279 545)" xlink:href="Splash-image.png"/>
+      <image id="Heart" width="169" height="168" transform="translate(701 707)" xlink:href="Splash-image2.png"/>
+      <image id="Map" width="166" height="166" transform="translate(279 440)" xlink:href="Splash-image3.png"/>
+      <image id="First_Aid" data-name="First Aid" width="168" height="168" transform="translate(617 440)" xlink:href="Splash-image4.png"/>
+      <text id="SIRONA" transform="translate(539.906 1434.229)" fill="#fff" font-size="150" font-family="Cambria"><tspan x="-251.953" y="0">SIRONA</tspan></text>
+      <image id="Blood" width="139" height="189" transform="translate(210 697)" xlink:href="Splash-image5.png"/>
+      <image id="Hands" width="520" height="261" transform="translate(265 977)" xlink:href="Splash-image6.png"/>
+    </g>
+    <text id="Virtual_Blood_Bank" data-name="Virtual Blood Bank" transform="translate(298 1494)" fill="#fff" font-size="60" font-family="Cambria"><tspan x="0" y="0">Virtual Blood Bank</tspan></text>
+  </g>
+</svg>

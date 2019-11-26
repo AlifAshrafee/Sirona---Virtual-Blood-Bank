@@ -1,0 +1,208 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <filter id="Rectangle_21" x="152" y="56" width="937" height="124.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Blood_Donation_History" x="177.623" y="68.79" width="664" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-2" x="47" y="307" width="986" height="281" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 775 720">
+      <image width="775" height="720" xlink:href="F:/App%20Contest/profile-42914_960_720.png"/>
+    </pattern>
+    <filter id="profile-42914_960_720" x="98" y="340" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-3" x="47" y="631" width="986" height="281" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="profile-42914_960_720-2" x="98" y="664" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-4" x="47" y="955" width="986" height="281" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="profile-42914_960_720-3" x="98" y="988" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-5" x="47" y="1293" width="986" height="281" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="profile-42914_960_720-4" x="98" y="1326" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_21-6" x="47" y="1614" width="986" height="281" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="profile-42914_960_720-5" x="98" y="1647" width="218" height="218" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Donation_History">
+      <rect width="1080" height="1920"/>
+    </clipPath>
+    <image id="image" width="66" height="66" xlink:href="F:/App%20Contest/99541b879c.png"/>
+  </defs>
+  <g id="Donation_History" data-name="Donation History" clip-path="url(#clip-Donation_History)">
+    <rect width="1080" height="1920" fill="#2bb673"/>
+    <g id="Health_Alerts" data-name="Health Alerts" transform="translate(54 -334)">
+      <g transform="matrix(1, 0, 0, 1, -54, 334)" filter="url(#Rectangle_21)">
+        <g id="Rectangle_21-7" data-name="Rectangle 21" transform="translate(161 60)" fill="#10472d" stroke="#707070" stroke-width="1">
+          <rect width="919" height="106.5" rx="10" stroke="none"/>
+          <rect x="0.5" y="0.5" width="918" height="105.5" rx="9.5" fill="none"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -54, 334)" filter="url(#Blood_Donation_History)">
+        <text id="Blood_Donation_History-2" data-name="Blood Donation History" transform="translate(509.62 137.79)" fill="#fff" font-size="60" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-322.017" y="0">Blood Donation History</tspan></text>
+      </g>
+    </g>
+    <g id="Left_Arrow" data-name="Left Arrow" transform="translate(0 -11)">
+      <g id="Arrow">
+        <line id="Line_2" data-name="Line 2" y1="19" x2="19" transform="translate(77.5 106.5)" fill="none" stroke="#000" stroke-width="6"/>
+        <line id="Line_3" data-name="Line 3" x2="19" y2="19" transform="translate(77.5 125.5)" fill="none" stroke="#000" stroke-width="6"/>
+        <line id="Line_4" data-name="Line 4" x2="57" transform="translate(77.5 125.5)" fill="none" stroke="#000" stroke-width="6"/>
+      </g>
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="109" height="109" transform="translate(52 71)" fill="none"/>
+    </g>
+    <text id="Search_results_based_on_nearest_blood_donors:" data-name="Search results based on nearest blood donors:" transform="translate(540 247)" fill="#fff" font-size="45" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="-470.061" y="0">Search results based on nearest blood donors:</tspan></text>
+    <g id="Users" transform="translate(0 -17)">
+      <g transform="matrix(1, 0, 0, 1, 0, 17)" filter="url(#Rectangle_21-2)">
+        <g id="Rectangle_21-8" data-name="Rectangle 21" transform="translate(56 311)" fill="rgba(0,0,0,0.57)" stroke="#707070" stroke-width="1">
+          <rect width="968" height="263" rx="29" stroke="none"/>
+          <rect x="0.5" y="0.5" width="967" height="262" rx="28.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Username:" transform="translate(436 405)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-112.488" y="0">Username:</tspan></text>
+      <text id="Location:" transform="translate(418 480)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-93.945" y="0">Location:</tspan></text>
+      <text id="Date:" transform="translate(450 555)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-55.75" y="0">Date:</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 0, 17)" filter="url(#profile-42914_960_720)">
+        <g id="profile-42914_960_720-6" data-name="profile-42914_960_720" transform="translate(107 343)" stroke="#707070" stroke-width="1" fill="url(#pattern)">
+          <circle cx="100" cy="100" r="100" stroke="none"/>
+          <circle cx="100" cy="100" r="99.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Users-2" data-name="Users" transform="translate(0 307)">
+      <g transform="matrix(1, 0, 0, 1, 0, -307)" filter="url(#Rectangle_21-3)">
+        <g id="Rectangle_21-9" data-name="Rectangle 21" transform="translate(56 635)" fill="rgba(0,0,0,0.57)" stroke="#707070" stroke-width="1">
+          <rect width="968" height="263" rx="29" stroke="none"/>
+          <rect x="0.5" y="0.5" width="967" height="262" rx="28.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Username:-2" data-name="Username:" transform="translate(436 405)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-112.488" y="0">Username:</tspan></text>
+      <text id="Location:-2" data-name="Location:" transform="translate(418 480)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-93.945" y="0">Location:</tspan></text>
+      <text id="Date:-2" data-name="Date:" transform="translate(450 555)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-55.75" y="0">Date:</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 0, -307)" filter="url(#profile-42914_960_720-2)">
+        <g id="profile-42914_960_720-7" data-name="profile-42914_960_720" transform="translate(107 667)" stroke="#707070" stroke-width="1" fill="url(#pattern)">
+          <circle cx="100" cy="100" r="100" stroke="none"/>
+          <circle cx="100" cy="100" r="99.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <use id="Location_icon" data-name="Location icon" transform="translate(944 756)" xlink:href="#image"/>
+    <use id="Location_icon-2" data-name="Location icon" transform="translate(943 432)" xlink:href="#image"/>
+    <g id="Users-3" data-name="Users" transform="translate(0 631)">
+      <g transform="matrix(1, 0, 0, 1, 0, -631)" filter="url(#Rectangle_21-4)">
+        <g id="Rectangle_21-10" data-name="Rectangle 21" transform="translate(56 959)" fill="rgba(0,0,0,0.57)" stroke="#707070" stroke-width="1">
+          <rect width="968" height="263" rx="29" stroke="none"/>
+          <rect x="0.5" y="0.5" width="967" height="262" rx="28.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Username:-3" data-name="Username:" transform="translate(436 405)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-112.488" y="0">Username:</tspan></text>
+      <text id="Location:-3" data-name="Location:" transform="translate(418 480)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-93.945" y="0">Location:</tspan></text>
+      <text id="Date:-3" data-name="Date:" transform="translate(450 555)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-55.75" y="0">Date:</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 0, -631)" filter="url(#profile-42914_960_720-3)">
+        <g id="profile-42914_960_720-8" data-name="profile-42914_960_720" transform="translate(107 991)" stroke="#707070" stroke-width="1" fill="url(#pattern)">
+          <circle cx="100" cy="100" r="100" stroke="none"/>
+          <circle cx="100" cy="100" r="99.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Users-4" data-name="Users" transform="translate(0 969)">
+      <g transform="matrix(1, 0, 0, 1, 0, -969)" filter="url(#Rectangle_21-5)">
+        <g id="Rectangle_21-11" data-name="Rectangle 21" transform="translate(56 1297)" fill="rgba(0,0,0,0.57)" stroke="#707070" stroke-width="1">
+          <rect width="968" height="263" rx="29" stroke="none"/>
+          <rect x="0.5" y="0.5" width="967" height="262" rx="28.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Username:-4" data-name="Username:" transform="translate(436 405)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-112.488" y="0">Username:</tspan></text>
+      <text id="Location:-4" data-name="Location:" transform="translate(418 480)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-93.945" y="0">Location:</tspan></text>
+      <text id="Date:-4" data-name="Date:" transform="translate(450 555)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-55.75" y="0">Date:</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 0, -969)" filter="url(#profile-42914_960_720-4)">
+        <g id="profile-42914_960_720-9" data-name="profile-42914_960_720" transform="translate(107 1329)" stroke="#707070" stroke-width="1" fill="url(#pattern)">
+          <circle cx="100" cy="100" r="100" stroke="none"/>
+          <circle cx="100" cy="100" r="99.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Users-5" data-name="Users" transform="translate(0 1290)">
+      <g transform="matrix(1, 0, 0, 1, 0, -1290)" filter="url(#Rectangle_21-6)">
+        <g id="Rectangle_21-12" data-name="Rectangle 21" transform="translate(56 1618)" fill="rgba(0,0,0,0.57)" stroke="#707070" stroke-width="1">
+          <rect width="968" height="263" rx="29" stroke="none"/>
+          <rect x="0.5" y="0.5" width="967" height="262" rx="28.5" fill="none"/>
+        </g>
+      </g>
+      <text id="Username:-5" data-name="Username:" transform="translate(436 405)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-112.488" y="0">Username:</tspan></text>
+      <text id="Location:-5" data-name="Location:" transform="translate(418 480)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-93.945" y="0">Location:</tspan></text>
+      <text id="Date:-5" data-name="Date:" transform="translate(450 555)" fill="#fff" font-size="50" font-family="SegoeUI-SemilightItalic, Segoe UI" font-weight="300" font-style="italic"><tspan x="-55.75" y="0">Date:</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, 0, -1290)" filter="url(#profile-42914_960_720-5)">
+        <g id="profile-42914_960_720-10" data-name="profile-42914_960_720" transform="translate(107 1650)" stroke="#707070" stroke-width="1" fill="url(#pattern)">
+          <circle cx="100" cy="100" r="100" stroke="none"/>
+          <circle cx="100" cy="100" r="99.5" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <use id="Location_icon-3" data-name="Location icon" transform="translate(943 1080)" xlink:href="#image"/>
+    <use id="Location_icon-4" data-name="Location icon" transform="translate(943 1418)" xlink:href="#image"/>
+    <use id="Location_icon-5" data-name="Location icon" transform="translate(943 1739)" xlink:href="#image"/>
+  </g>
+</svg>
